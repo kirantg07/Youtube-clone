@@ -10,7 +10,11 @@
   "author": "Kiran T G",
   "license": "ISC",
   "devDependencies": {
+    "dotenv": "^16.4.5",
     "nodemon": "^3.1.0",
     "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "mongoose": "^8.3.2"
   }
 }
